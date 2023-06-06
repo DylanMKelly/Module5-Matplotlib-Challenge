@@ -47,5 +47,5 @@ The following are resources and links used to help with the creation of these sc
  -  Stack Overflow - "Selection with .loc in python" :https://stackoverflow.com/questions/44890713/selection-with-loc-in-python
 
 # Additional Help 
-TA assistance Sunil helped with corrections and formatting to errors in my intial school_sumary 
+TA assistances and classmates after hours helped with correcting code that was not working
 
